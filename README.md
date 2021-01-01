@@ -1,10 +1,11 @@
 # KYYGovrementBot
-The national bot of KYY Impire
-
-Now it is beta.
-
-You need create config phile if you want to test it
-
-in config.py:
-Token = "/token/"
-Adminid = "/your id/"
+The national bot of KYY Impire<br/>
+<br/>
+Now it is beta.<br/>
+<br/>
+in config.py:<br/>
+```
+bot_username = "KYYGovrementBot"
+token = "TOKEN"
+admin_id = "adminID"
+```
