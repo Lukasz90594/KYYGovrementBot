@@ -1,0 +1,3 @@
+*.session*
+*.db
+config.py
